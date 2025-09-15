@@ -1,5 +1,4 @@
-# VR-HumanBlueprint
-A VR project built in Unity showcasing human anatomy with interactive exploration
+
 # VR Human Blueprint 
 
 A **Virtual Reality (VR) project** built in Unity to provide an interactive human anatomy blueprint.  
@@ -13,10 +12,7 @@ Watch the demo of the project here:
 
 [![Watch the demo]([https://youtu.be/VIDEO_ID)](https://drive.google.com/file/d/1DCOwEEOf3ztblI0WuFEIZXpgR5O6tGjo/view?usp=sharing)
 
-*(Click the image to play the video)*
 
-> **Note:** Replace `VIDEO_ID` with the actual YouTube video ID after uploading your demo.  
-> If you prefer, you can also provide a direct Google Drive link.
 
 ---
 
