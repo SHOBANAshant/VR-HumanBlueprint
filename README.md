@@ -6,14 +6,15 @@ This project allows users to explore the human body in a 3D VR environment, enha
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 Watch the demo of the project here:  
 
 [![Watch the demo]([https://youtu.be/VIDEO_ID)](https://drive.google.com/file/d/1DCOwEEOf3ztblI0WuFEIZXpgR5O6tGjo/view?usp=sharing)
+[![Watch the demo]([https://youtu.be/VIDEO_ID)]([https://drive.google.com/file/d/1DCOwEEOf3ztblI0WuFEIZXpgR5O6tGjo/view?usp=sharing](https://drive.google.com/file/d/1ZVYLFQWytHBg4qKV0ZzOVFqUVFcsk5mv/view?usp=drive_link))
 
 
-https://drive.google.com/file/d/1ZVYLFQWytHBg4qKV0ZzOVFqUVFcsk5mv/view?usp=drive_link
+
 ---
 
 ## 🚀 Project Overview
